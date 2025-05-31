@@ -1,6 +1,6 @@
 # 🦺 Personal Protective Equipment Detection
 
-A computer vision application to detect essential safety gear—**Helmet**, **Mask**, and **Safety Jacket**—in images and videos using a YOLOv8-based custom-trained model.
+This application is designed to detect if people are wearing safety-jackets, hard-hats and a face mask. It's use cuts across different applications such as checking the safety complicance of workers on a site as to wearing their full safety gear(vest and helment) and also safety compliance of people wearing a face mask as a preventive measure due to the coronavirus or any other use case of a face mask.
 
 ## 🚀 Features
 
