@@ -15,7 +15,7 @@ A computer vision application to detect essential safety gear—**Helmet**, **Ma
 ## 📁 Project Structure
 
 ```
-Safety-Kit-Detection/
+Personal-Protective-Equipment-Detectionn/
 ├── labelled_images/    # Annotated training images
 ├── train/              # Training images
 ├── val/                # Validation images
