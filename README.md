@@ -45,4 +45,8 @@ The `custom_data.yaml` file contains the dataset configuration:
 - Number of classes
 - Class names
 
+## 🖼️ Output
+![detection_output](https://github.com/user-attachments/assets/6911a0a6-9cbf-432d-afb2-eeb4373ef75b)
+
+
 
