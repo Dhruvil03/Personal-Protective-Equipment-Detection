@@ -1,4 +1,4 @@
-# 🦺 Safety Kit Detection
+# 🦺 Personal Protective Equipment
 
 A computer vision application to detect essential safety gear—**Helmet**, **Mask**, and **Safety Jacket**—in images and videos using a YOLOv8-based custom-trained model.
 
